@@ -10,9 +10,17 @@
     top: 0;
     left:0;
     right:0;
-    transition: 0.2s;
+    transition: 0.05s;
 }
 
+#placeholder {
+    padding-top:245;
+    padding-bottom: 10;
+    /* top: 0; */
+    position: relative;
+    /* right:0; */
+    /* bottom:500px; */
+}
 ::-webkit-scrollbar {
     width: 5px;
 }
